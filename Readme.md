@@ -17,7 +17,7 @@ Así mismo existen las principales causas de caídas en el adulto mayor, son de 
 Actualmente existen diversos mecanismos para detectar las caídas, dispositivos electrónicos como el Angel4, Elea y Nursecall, pueden llegar a costar 149,95€ alrededor de 560.453,12 COP. También se pueden encontrar en las tiendas virtuales como la Play Store y la App Store aplicaciones como Chk-In Fall y FallDetector que realizan esta tarea.
 
 El principal objetivo de este proyecto es desarrollar en Python un modelo capaz de detectar caídas en tiempo real. Para esto se realizó un agente que fue entrenado en diferentes situaciones. A continuación, se hará un reporte sobre el proyecto realizado.
-Para las lecturas del acelerometro y el gps se uso una aplicación llamada [IMU+GPS Stream https://play.google.com/store/apps/details?id=de.lorenz_fenster.sensorstreamgps&hl=en] y se probo en un Samsung Galaxy J6
+Para las lecturas del acelerometro y el gps se uso una aplicación llamada [!IMU+GPS Stream https://play.google.com/store/apps/details?id=de.lorenz_fenster.sensorstreamgps&hl=en] y se probo en un Samsung Galaxy J6
 
 # Instalación
 
